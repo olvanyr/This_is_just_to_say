@@ -1,0 +1,10 @@
+
+text0 = "MOM ALWAYS SAID THE WORLD IS TOO SMALL FOR ME";
+text1 = "BUT THE ONLY THING I'M CERTAIN IS THAT I FEEL ALONE.";
+text2 = "ON EITHER HAND, YES I AM.";
+text3 = "THEN AGAIN, THIS IS A VERY SMALL PLACE.";
+
+event_inherited();
+
+walk_spd = 2;
+jump_spd = -20;
