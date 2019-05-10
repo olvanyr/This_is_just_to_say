@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "49cd2b25-4d43-4433-9429-5b643f770680",
+            "Value": {
+                "id": "63985f8a-eafd-4571-995b-b461c4f32951",
+                "resourcePath": "rooms\\rInit\\rInit.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "4bcf6e5b-5d8e-48f4-8bb8-865ab8cb388c",
             "Value": {
                 "id": "81c3b106-3ce8-4dc6-b9d9-b05645fa73c5",
@@ -252,6 +260,14 @@
                 "id": "8350d506-78cf-438e-a69b-42bf2224f921",
                 "resourcePath": "sprites\\sBoat_mask\\sBoat_mask.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "966d3f7c-bf84-45e7-983f-d58044cee367",
+            "Value": {
+                "id": "bf4b0b31-cd85-4726-b479-02f5bd368fce",
+                "resourcePath": "objects\\oDisplay_manager\\oDisplay_manager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
